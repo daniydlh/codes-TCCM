@@ -2,8 +2,8 @@ Huckel_matrix.f90 program reads input file to create huckel matrix for an open o
 It reads the type of system from the first line in input file.
 
   system options:
-    - open
-    - tube
+      - open
+      - tube
     
 Number of rings in X and Y axes should be specified in case tube system is seleceted
 
